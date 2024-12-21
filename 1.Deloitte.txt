@@ -1,0 +1,43 @@
+"1. Write a java program to print triangle star pattern
+2.  What OOP's concept you implemented in your framework and how
+3. What Java 8 features you implemented in your recent projects
+4. How did you implemented java collections "
+"1. Explain practical use of xpath ancestor and sibling 
+2. How did you idenfied frames in application
+3. How did you handle multiple windows and pop-ups
+4. How did you implemented parametrization
+5. Explain different types of assertions and use"
+"1. Can you describe your experience in creating basic BDD or other types of frameworks?
+2. How do you approach writing feature files, scenario outlines, examples, and step definitions?
+3. Can you explain your hands-on experience with writing page factory classes, including setter and getter implementations?
+4. How have you set up test automation reports using tools like Extent or Serenity?
+5. Can you provide examples of reusable functions you have written in your previous projects?
+6. How do you handle dynamic data from external sources such as JSON, databases, CSV, or Excel files in your automation scripts?"
+"1. Can you describe your experience in automating POST, GET, PUT, and PATCH methods using a data-driven approach?
+2. How do you handle reading data from various sources such as JSON and Excel for testing purposes?
+3. What techniques do you use to validate requests, responses, and schemas to ensure accuracy in API automation?"
+"1. Can you explain how you access the workspace in Jenkins for reports or other aspects?
+2. How do you handle failed builds in Jenkins? Can you provide an example of a challenging situation you faced and how you resolved it?
+3. What is your experience in creating schedulers for existing Jenkins jobs?
+4. Have you worked with Jenkinsfile or YAML files? Can you describe a project where you utilized these files and the benefits they provided?"
+"1. How do you approach resolving conflicts in Git? Can you provide an example of a challenging conflict you resolved?
+2. What is your experience with raising pull requests and merging branches? Can you describe a situation where you had to manage multiple pull requests simultaneously?
+3. Can you discuss some of the best practices you follow when using Git in your projects?"
+"1. Can you explain the differences between Scrum and Agile methodologies?
+2. How do you handle changing requirements during a sprint?
+3. Can you describe the various sprint ceremonies from a QA perspective?
+4. How do you measure sprint velocity, and why is it important?
+5. What are some common impediments you have faced in a sprint, and how did you overcome them?
+6. How do you use metrics such as sprint velocity, burndown charts, and defect leakages to improve the development process?"
+"1. Can you explain your understanding of test management tools such as Jira or QTest?
+2. How do you manage the defect lifecycle in your projects?
+3. Can you describe the process of requirement traceability using Jira and QTest?
+4. How do you handle test execution management using QTest?"
+"1. Can you describe a situation where you had to use a complex SQL query involving multiple JOINs to retrieve data from different tables? What was the problem you were trying to solve, and how did you approach it?
+2. Can you provide an example of a project where you had to write a nested query to calculate aggregated data? How did you ensure the accuracy and performance of the query?
+3. How do you handle data validation and integrity checks in your SQL queries? Can you share an experience where you identified and fixed data inconsistencies?
+4. Can you describe a challenging SQL error or exception you encountered in a project? How did you diagnose and resolve the issue?
+5. Can you explain a real-world scenario where you were involved in an ETL process? What were the key challenges, and how did you ensure the successful extraction, transformation, and loading of data?"
+
+
+
